@@ -31,8 +31,8 @@ while game_loop:
     #How big the window should be 
     window.setup(1200,700)
 
-    #Name window 'Jason's  maze game'
-    window.title("Jason's maze game")
+    #Name window 'Kenneths's  maze game'
+    window.title("Kenneth's maze game")
 
 
     #set backbground to white
